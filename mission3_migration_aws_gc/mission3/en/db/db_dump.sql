@@ -88,6 +88,6 @@ INSERT INTO `records` VALUES (46,'Amanda Colema','USA','Antigen','Negative','s02
 INSERT INTO `records` VALUES (47,'Billie Baldwi','USA','Antigen','Negative','s029s02-as0202o9s-s29312-as-billie.pdf');
 INSERT INTO `records` VALUES (48,'Lillie Herrer','USA','Antigen','Negative','s029s02-as0202o9s-s29312-as-lillie.pdf');
 INSERT INTO `records` VALUES (49,'Brandi Mathis','USA','Antigen','Negative','s029s02-as0202o9s-s29312-as-brandi.pdf');
-INSERT INTO `records` VALUES (50,'Melvin Massey','USA','Antigen','Negative','s029s02-as0202o9s-s29312-as-melvin.pdf');
+INSERT INTO `records` VALUES (50,'Hank Cho','Korea','Antigen','Positive','s029s02-as0202o9s-s29312-as-hcho.pdf');
 /*!40000 ALTER TABLE `records` ENABLE KEYS */;
 UNLOCK TABLES;
